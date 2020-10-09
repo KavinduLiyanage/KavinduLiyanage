@@ -6,11 +6,11 @@
 
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/kavinduliyanage/"><img height="30" src="assets\linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@KavinduLiyanage"><img height="30" src="assets\medium.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/Kavindu.Sandeepa.Liyanage/"><img height="30" src="assets\facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/_kavindu.sandeepa_/"><img height="30" src="assets\instagram.png"></a>&nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/Y3xBm8gk1fyV"><img height="30" src="assets\skype.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kavinduliyanage/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@KavinduLiyanage"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/Kavindu.Sandeepa.Liyanage/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/_kavindu.sandeepa_/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/Y3xBm8gk1fyV"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
 
  </p>
 
@@ -23,7 +23,7 @@
  
  
 <br />
-<img align="right" height="300px" width="400px" alt="GIF" src="assets\68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
+<img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
 
 ## 😎Talking about Personal Stuffs:
