@@ -3,8 +3,6 @@
    
 </div>
 
-
-
 <p align='center'>
     <a href="https://www.linkedin.com/in/kavinduliyanage/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@KavinduLiyanage"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
@@ -19,14 +17,10 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 🎓 Software Engineering Undergraduate | 💻 Full Stack Developer | 📝 UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
-
- 
- 
-
 <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
 
-## 😎Talking about Personal Stuffs:
+## 😎 Talking about Personal Stuffs:
 - ### 👨🏽‍💻 I’m currently working on something cool 😉
 - ### 🌱 I’m currently learning everything 🤣
 - ### 💬 Ask me about anything, I am happy to help 😊
@@ -34,6 +28,8 @@
 - ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
 - ### ⚡ I love to talk on trending technology 📱
   
+<br />
+
 ## 😇 Some of my Github Public Stats
 
 </details>
@@ -52,7 +48,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
 -->
-
 
 <br />
 
