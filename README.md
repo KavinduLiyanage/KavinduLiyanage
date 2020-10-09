@@ -22,7 +22,7 @@
 
  
  
-<br />
+
 <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
 
@@ -34,17 +34,27 @@
 - ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
 - ### ⚡ I love to talk on trending technology 📱
   
-<br />
 
-## 😇Some of my Github Public Stats
+<details open>
+ <summary><font size="4"> 😇 Some of my Github Public Stats</font></summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react">
 
+  *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
+  
+</p>
+</details>
+
+<!--
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
+-->
 
 
-*NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
 <br />
 
 ## 🚀 Frameworks...
@@ -97,7 +107,6 @@ or <a href="mailto:sandeepa8956@gmail.com"><b>email</b></a> me.
 
 </div>
 
----
  <!--
 ### - Blogs 🌱
 
