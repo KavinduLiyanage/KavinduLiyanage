@@ -30,6 +30,14 @@
   
 <br />
 
+
+[![](https://gitwar.herokuapp.com/badge?username=KavinduLiyanage&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=KavinduLiyanage.KavinduLiyanage)
+
+
+
 ## 😇 Some of my Github Public Stats
 
 </details>
@@ -47,6 +55,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
+
 -->
 
 <br />
