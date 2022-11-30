@@ -18,20 +18,20 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Associate Full Stack Engineer at Orel IT | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Associate Software Engineer at CabbageApps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
 <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
-
 ## 😎 Talking about Personal Stuffs:
-- ### 👨🏽‍💻 I’m currently working on something cool 😉
-- ### 🌱 I’m currently learning something new 😇
-- ### 💬 Ask me about anything, I am happy to help 😊
-- ### 📫 How to reach me: Use any of the badges above 
-- ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
-- ### ⚡ I love to talk on trending technology 📱
-  
+
+-   ### 👨🏽‍💻 I’m currently working on something cool 😉
+-   ### 🌱 I’m currently learning something new 😇
+-   ### 💬 Ask me about anything, I am happy to help 😊
+-   ### 📫 How to reach me: Use any of the badges above
+-   ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
+-   ### ⚡ I love to talk on trending technology 📱
+
 <br />
 
 ## 😇 Some of my Github Public Stats
@@ -42,8 +42,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react&langs_count=4">
 
-  *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
-  
+_NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats._
+
 </p>
 
 <!--
@@ -76,7 +76,7 @@
     <img src="assets\badges\Languages\css3.svg" alt="css3" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Languages\sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    
-  <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> 
+  <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px">
 
   <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px">
 
@@ -115,4 +115,3 @@ or <a href="mailto:sandeepa8956@gmail.com"><b>email</b></a> me.
   
 </p>
 -->
-
