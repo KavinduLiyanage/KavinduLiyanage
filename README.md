@@ -42,19 +42,14 @@
 </details>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react&langs_count=4">
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
 
 _NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats._
 
 </p>
-
-<!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
--->
 
 <br />
 
