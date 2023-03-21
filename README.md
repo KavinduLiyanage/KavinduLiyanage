@@ -7,6 +7,9 @@
    <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Kavindu Sandeepa Liyanage<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;2%2B+Years+of+Industrial+Experience"></a>
+</p>
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/kavinduliyanage/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
@@ -17,17 +20,17 @@
 
  </p>
 
-<div align="center">
+<!-- <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Associate Software Engineer at CabbageApps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
-</div>
+</div> -->
 
 <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
 ## 😎 Talking about Personal Stuffs:
 
--   ### 👨🏽‍💻 I’m currently working on something cool 😉
+-   ### 👨🏽‍💻 I’m currently working with React, Node, MongoDB, etc 😉
 -   ### 🌱 I’m currently learning something new 😇
--   ### 💬 Ask me about anything, I am happy to help 😊
+-   ### 💬 Ask me about anything related to JavaScript/ TypeScript, I am happy to help 😊
 -   ### 📫 How to reach me: Use any of the badges above
 -   ### 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him) 👦
 -   ### ⚡ I love to talk on trending technology 📱
