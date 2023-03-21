@@ -41,11 +41,21 @@
 
 </details>
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000&count_private=true&include_all_commits=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&hide_border=true&theme=react&bg_color=00000000&langs_count=6">
+  <img src ="https://streak-stats.demolab.com?user=KavinduLiyanage&theme=react&hide_border=true&background=FFFFFF00">
+  
+ 
+</p>
+
 <p align = "center">
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
+<!-- [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KavinduLiyanage&theme=react&hide_border=true&background=FFFFFF00)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&hide_border=true&theme=react&bg_color=00000000&langs_count=6)](https://github.com/KavinduLiyanage) -->
 
 _NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats._
 
