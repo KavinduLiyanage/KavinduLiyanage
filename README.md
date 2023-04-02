@@ -65,14 +65,12 @@ _NOTE: Most Used Languages does not indicate my skill level or something like th
 ## 🚀 Frameworks...
 
 <p align="center">
-  
-   <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-     <img src="assets\badges\Frameworks\redux.svg" alt="redux" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Frameworks\redux.svg" alt="redux" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">    
   <img src="assets\badges\Frameworks\expressjs.svg" alt="expressjs" style="vertical-align:top; margin:4px"> 
   <img src="assets\badges\Frameworks\jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">   
   <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    
   <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
   <!-- <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px"> -->
   
@@ -81,27 +79,24 @@ _NOTE: Most Used Languages does not indicate my skill level or something like th
 ## 🌀 Languages...
 
 <p align="center">
-     <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">
-      <img src="assets\badges\Languages\typescript.svg" alt="typescript" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Languages\typescript.svg" alt="typescript" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="assets\badges\Languages\css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Languages\sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Languages\css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Languages\sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <!-- <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    
   <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> -->
-   <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px">
-
-typescript
 
 </p>
 
 ## 🛠 Tools...
 
 <p align="center">
-  
-   <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
   <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
